@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "user 1"
+    },
+    {
+      "id": "2",
+      "name": "user 2"
+    },
+    {
+      "id": "3",
+      "name": "user 3"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "post": "Post 1"
+    },
+    {
+      "id": "2",
+      "post": "Post 2"
+    },
+    {
+      "id": "3",
+      "post": "Post 3"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "company_name": "company 1"
+    },
+    {
+      "id": "2",
+      "company_name": "company 2"
+    },
+    {
+      "id": "3",
+      "company_name": "company 3"
+    },
+    {
+      "id": "4",
+      "company_name": "company 5"
+    }
+  ]
+}
